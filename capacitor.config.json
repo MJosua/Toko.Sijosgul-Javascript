@@ -1,0 +1,11 @@
+{
+  "appId": "Toko.Sijosgul.com",
+  "appName": "Toko.sijosgul.com",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {},
+  "server": {
+    "androidScheme": "https"
+  }
+}
